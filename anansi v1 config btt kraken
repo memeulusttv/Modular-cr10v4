@@ -157,7 +157,7 @@ pin: PA0
 #tachometer_pin: PG0
 
 [mcu]
-serial: /dev/serial/by-id/usb-Klipper_Klipper_firmware_12345-if00
+serial: /dev/serial/by-id/usb-Klipper_stm32h723xx_250034000D51323532393433-if00
 
 [printer]
 kinematics: cartesian
